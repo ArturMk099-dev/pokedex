@@ -5,7 +5,7 @@ A Pokémon browser built with React 18, TypeScript 5, Vite, and React Router 6.
 Pokémon data and images come from [PokeAPI](https://pokeapi.co/).
 The interface is in Armenian.
 
-Live site: not deployed yet.
+Live site: [Pokédex](https://pokedex-silk-iota.vercel.app)
 
 ## Features
 
